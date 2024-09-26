@@ -14,7 +14,7 @@ cardholders. The internet system allows you to share them. Physical copies of
 documents will become obsolete in the near future. It will provide services in all
 main categories, including education, health care, railroads, and other specifics.
 
-Technologies: HTML, CSS, JavaScript, Firebase 
+Technologies: React.js, Next.js, Tailwind CSS
 
 Domain: Industry
 
