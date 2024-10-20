@@ -18,6 +18,6 @@ Technologies: React.js, Next.js, Tailwind CSS
 
 Domain: Industry
 
-Instructions:
+Instructions: Clone the project, then in integrated terminal run the command "npm run dev"
 
 
