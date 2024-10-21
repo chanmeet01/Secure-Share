@@ -18,6 +18,12 @@ Technologies: React.js, Next.js, Tailwind CSS
 
 Domain: Industry
 
+Workflow: 1. Getting started => Landing Page => "Get Started" => Clerk Authentication
+2. "Uploading Page" => Upload files / access already uploaded files => "FIREBASE" (to store files) => "FIREBASE" (to store data for backend) => Uploading on firebase or retrieval from Firebase.
+3. Redirecting to "Preview Page" => access features like set password, email sending, generated short url for sharing) => "FIREBASE" (retrieval of said data/file)
+4. Sending Email => "REACT EMAIL" => Sending file to mentioned email id => "FIREBASE" (retrieval of said data to be attached with "REACT EMAIL" in the mail) 
+NOTE: The preview page does not need authentication.
+
 Instructions: Clone the project, then in integrated terminal run the command "npm run dev"
 
 
