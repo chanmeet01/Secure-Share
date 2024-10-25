@@ -5,6 +5,7 @@ import React, {useState} from "react";
 
 function SideNav() {
   const menuList = [
+    
     {
       id: 1,
       name: "Upload",
